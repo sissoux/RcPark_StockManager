@@ -1,0 +1,10 @@
+# Stock Manager Application - Python Requirements
+# No external dependencies required - uses only Python standard library
+# Requires Python 3.6 or higher
+
+# The application uses only built-in modules:
+# - tkinter (GUI)
+# - json (data files)
+# - csv (transactions storage)
+# - datetime (timestamps)
+# - pathlib (file paths)
