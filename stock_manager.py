@@ -259,7 +259,7 @@ class StockManager:
         button_frame.grid(row=6, column=0, pady=10)
         
         ttk.Button(button_frame, text="Ajouter/Modifier Article", command=self.protected_add_article).grid(row=0, column=0, padx=5)
-        ttk.Button(button_frame, text="Extraire Données", command=self.protected_extract_data).grid(row=0, column=1, padx=5)
+        ttk.Button(button_frame, text="Exporter Transactions", command=self.protected_extract_data).grid(row=0, column=1, padx=5)
         ttk.Button(button_frame, text="Exporter Stock", command=self.protected_export_stock).grid(row=0, column=2, padx=5)
         ttk.Button(button_frame, text="Exporter Statistiques", command=self.protected_export_stats).grid(row=0, column=3, padx=5)
         ttk.Button(button_frame, text="Gérer Code-Barres", command=self.protected_manage_barcodes).grid(row=0, column=4, padx=5)
