@@ -1,34 +1,17 @@
 {
-  "COKE001": {
-    "name": "Coca-Cola",
-    "price": 1.50
+  "#!@$$*)!(%#!(": {
+    "name": "PET 1.2L MAYTEA PECHE",
+    "price": 1.65,
+    "stock": 56
   },
-  "COKE002": {
-    "name": "Coca-Cola Zero",
-    "price": 1.50
+  "3124480195319": {
+    "name": "PET 1.2L MAYTEA PECHE",
+    "price": 1.65,
+    "stock": 54
   },
-  "SPRITE001": {
-    "name": "Sprite",
-    "price": 1.50
-  },
-  "FANTA001": {
-    "name": "Fanta Orange",
-    "price": 1.50
-  },
-  "WATER001": {
-    "name": "Water",
-    "price": 1.00
-  },
-  "BEER001": {
-    "name": "Beer",
-    "price": 2.00
-  },
-  "COFFEE001": {
-    "name": "Coffee",
-    "price": 1.20
-  },
-  "TEA001": {
-    "name": "Tea",
-    "price": 1.00
+  "9780786967896": {
+    "name": "Coke",
+    "price": 1.5,
+    "stock": 9
   }
 }
