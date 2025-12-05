@@ -7,7 +7,7 @@ Barcode-based beverage stock management system
 DEBUG = True
 
 # AZERTY Conversion - Set to True if barcode scanner sends QWERTY on AZERTY keyboard
-AZERTY_CONVERT = True
+AZERTY_CONVERT = False
 
 # Admin password for protected operations
 ADMIN_PASSWORD = "1234"
