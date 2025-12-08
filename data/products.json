@@ -13,5 +13,10 @@
     "name": "Coke",
     "price": 1.5,
     "stock": 9
+  },
+  "5449000214911": {
+    "name": "Coca-Cola",
+    "price": 1.5,
+    "stock": 48
   }
 }
