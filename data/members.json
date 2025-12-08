@@ -1,7 +1,15 @@
 {
-  "1111111111": "Bob Johnson",
-  "2222222222": "Alice Williams",
-  "3228021170039": "John Doe",
-  "9782266143752": "Jane Smith",
-  "9782266143776": "Charlie Brown"
+  "MEM_ADA": "Alexis Damiens",
+  "MEM_CME": "Charles Merlen",
+  "MEM_DVD": "David VDB",
+  "MEM_NCL": "Nathalie Clarhaut",
+  "MEM_OCL": "Olivier Clarhaut",
+  "MEM_PBR": "Paul Brocq",
+  "MEM_PDA": "Philippe Damiens",
+  "MEM_PFE": "Philippe Féret",
+  "MEM_SGA": "Stephane Galand",
+  "MEM_TMA": "Tony Masclet",
+  "MEM_VCA": "Vincent Caffier",
+  "MEM_VCL": "Vincent Clarhaut",
+  "MEM_XDA": "Xavier Danjou"
 }

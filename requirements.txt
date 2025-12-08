@@ -8,3 +8,7 @@
 # - csv (transactions storage)
 # - datetime (timestamps)
 # - pathlib (file paths)
+
+# Barcode generation utilities
+python-barcode>=0.15.1
+Pillow>=10.0.0
